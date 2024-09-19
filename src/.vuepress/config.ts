@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/wnblog/",
 
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "汪宁，你好",
+  description: "我的第一个VuePress站点",
 
   theme,
 
