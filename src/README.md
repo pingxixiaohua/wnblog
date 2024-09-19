@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://www.helloimg.com/i/2024/09/19/66ebfdbe44f14.jpg
 heroText: 汪宁的博客
 heroFullScreen: true
 tagline: 好好活着，找个好工作，混吃等死
